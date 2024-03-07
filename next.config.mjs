@@ -11,10 +11,10 @@ const nextConfig = {
     start_url: "/",
 
     // Specify the name of the app
-    name: "My Next.js App",
+    name: "@Jurizzogineco - LinkTree",
 
     // Specify the short name of the app (used on the home screen)
-    short_name: "Next App",
+    short_name: "LinkTree",
 
     // Specify the background color of the app (optional)
     background_color: "#fbcfe8",
